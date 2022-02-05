@@ -9,7 +9,7 @@ Main supervisor: prof. dr hab. Jacek Staszewski,
 Theoretical supervisor: mgr Adam Trwoga,
 Technical supervisor: mgr inż. Marcin Wichrowski.
 
-If there is a problem, question, or anything about my fonts, please sent an email to wojciechowska.kas@gmail.com
+If there is a problem, question, or anything about my font, please sent an email to wojciechowska.kas@gmail.com
 
 Thanks,
 Kasia
